@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/e0b247334da14be28eb5e2bda0979516/artifacts
+end_time: 1749444156068
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: e0b247334da14be28eb5e2bda0979516
+run_name: bright-frog-619
+run_uuid: e0b247334da14be28eb5e2bda0979516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444149730
+status: 3
+tags: []
+user_id: hrahm

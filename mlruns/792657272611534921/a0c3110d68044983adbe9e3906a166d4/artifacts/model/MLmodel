@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 8056057
+model_uuid: 3e44a748fcdd4fc098a4bbd696775c32
+prompts: null
+run_id: a0c3110d68044983adbe9e3906a166d4
+signature:
+  inputs: '[{"type": "double", "name": "Curricular_units_2nd_sem_grade", "required":
+    true}, {"type": "double", "name": "Curricular_units_2nd_sem_approved", "required":
+    true}, {"type": "double", "name": "Curricular_units_1st_sem_grade", "required":
+    true}, {"type": "double", "name": "Tuition_fees_up_to_date", "required": true},
+    {"type": "double", "name": "Curricular_units_1st_sem_approved", "required": true},
+    {"type": "double", "name": "Age_at_enrollment", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-09 04:40:42.205455'

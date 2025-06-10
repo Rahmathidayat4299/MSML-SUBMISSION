@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/792657272611534921/df0ac82d7c4a4d54bc6df43c193f66db/artifacts
+end_time: 1749444086731
+entry_point_name: ''
+experiment_id: '792657272611534921'
+lifecycle_stage: active
+run_id: df0ac82d7c4a4d54bc6df43c193f66db
+run_name: inquisitive-ant-933
+run_uuid: df0ac82d7c4a4d54bc6df43c193f66db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444080089
+status: 3
+tags: []
+user_id: hrahm

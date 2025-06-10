@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/792657272611534921/8aae561cc7d544bcb4ab39df1254dede/artifacts
+end_time: 1749444106322
+entry_point_name: ''
+experiment_id: '792657272611534921'
+lifecycle_stage: active
+run_id: 8aae561cc7d544bcb4ab39df1254dede
+run_name: bedecked-cat-774
+run_uuid: 8aae561cc7d544bcb4ab39df1254dede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444099154
+status: 3
+tags: []
+user_id: hrahm

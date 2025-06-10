@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/792657272611534921/3a6e2d89d0e0445ab6b118ddc46e34ee/artifacts
+end_time: 1749444111579
+entry_point_name: ''
+experiment_id: '792657272611534921'
+lifecycle_stage: active
+run_id: 3a6e2d89d0e0445ab6b118ddc46e34ee
+run_name: bittersweet-asp-986
+run_uuid: 3a6e2d89d0e0445ab6b118ddc46e34ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444106338
+status: 3
+tags: []
+user_id: hrahm

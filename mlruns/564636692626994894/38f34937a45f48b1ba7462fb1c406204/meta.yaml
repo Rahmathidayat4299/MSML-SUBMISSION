@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/38f34937a45f48b1ba7462fb1c406204/artifacts
+end_time: 1749444191974
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: 38f34937a45f48b1ba7462fb1c406204
+run_name: bedecked-colt-841
+run_uuid: 38f34937a45f48b1ba7462fb1c406204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444166735
+status: 3
+tags: []
+user_id: hrahm

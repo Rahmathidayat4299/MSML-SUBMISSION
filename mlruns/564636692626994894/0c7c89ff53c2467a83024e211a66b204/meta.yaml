@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/0c7c89ff53c2467a83024e211a66b204/artifacts
+end_time: 1749444166713
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: 0c7c89ff53c2467a83024e211a66b204
+run_name: honorable-vole-163
+run_uuid: 0c7c89ff53c2467a83024e211a66b204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444156084
+status: 3
+tags: []
+user_id: hrahm

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/792657272611534921/a8f09a47851d471984a89298cc3036bd/artifacts
+end_time: 1749444092621
+entry_point_name: ''
+experiment_id: '792657272611534921'
+lifecycle_stage: active
+run_id: a8f09a47851d471984a89298cc3036bd
+run_name: sedate-boar-645
+run_uuid: a8f09a47851d471984a89298cc3036bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444086744
+status: 3
+tags: []
+user_id: hrahm

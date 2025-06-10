@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/7f07d4be02614b89aa3ed8d9b4cbd522/artifacts
+end_time: 1749444138854
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: 7f07d4be02614b89aa3ed8d9b4cbd522
+run_name: casual-gull-857
+run_uuid: 7f07d4be02614b89aa3ed8d9b4cbd522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444114656
+status: 3
+tags: []
+user_id: hrahm

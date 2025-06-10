@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/a059091d8a8d45f8b925965f710f8a52/artifacts
+end_time: 1749444191974
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: a059091d8a8d45f8b925965f710f8a52
+run_name: peaceful-crab-365
+run_uuid: a059091d8a8d45f8b925965f710f8a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444166735
+status: 3
+tags: []
+user_id: hrahm

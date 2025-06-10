@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/28f54614609345e4a53107ef0c529d7c/artifacts
+end_time: 1749444198482
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: 28f54614609345e4a53107ef0c529d7c
+run_name: awesome-penguin-83
+run_uuid: 28f54614609345e4a53107ef0c529d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444192233
+status: 3
+tags: []
+user_id: hrahm

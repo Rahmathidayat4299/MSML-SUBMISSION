@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/1f9c852d5b244369a9900505d4ff58ef/artifacts
+end_time: 1749444192194
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: 1f9c852d5b244369a9900505d4ff58ef
+run_name: dashing-ant-986
+run_uuid: 1f9c852d5b244369a9900505d4ff58ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444166735
+status: 3
+tags: []
+user_id: hrahm

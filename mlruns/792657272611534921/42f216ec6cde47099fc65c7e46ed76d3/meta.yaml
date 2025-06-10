@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/792657272611534921/42f216ec6cde47099fc65c7e46ed76d3/artifacts
+end_time: 1749444026937
+entry_point_name: ''
+experiment_id: '792657272611534921'
+lifecycle_stage: active
+run_id: 42f216ec6cde47099fc65c7e46ed76d3
+run_name: Random Search Experiment
+run_uuid: 42f216ec6cde47099fc65c7e46ed76d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444018772
+status: 3
+tags: []
+user_id: hrahm

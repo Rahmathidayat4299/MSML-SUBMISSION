@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine-learning/MSML-Submission/mlruns/564636692626994894/e756032daf454969b75b5b10cdf2e11c/artifacts
+end_time: 1749444149592
+entry_point_name: ''
+experiment_id: '564636692626994894'
+lifecycle_stage: active
+run_id: e756032daf454969b75b5b10cdf2e11c
+run_name: useful-kit-447
+run_uuid: e756032daf454969b75b5b10cdf2e11c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749444138888
+status: 3
+tags: []
+user_id: hrahm
