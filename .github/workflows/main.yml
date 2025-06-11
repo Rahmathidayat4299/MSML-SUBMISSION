@@ -38,8 +38,7 @@ jobs:
 
       - name: Run mlflow project
         run: |
-          # Ganti Project dengan . jika Project tidak ada
-          mlflow run . --env-manager=local 
+          mlflow run . --env-manager=local  
 
       - name: Save mlruns to repo
         run: |
